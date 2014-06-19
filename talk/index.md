@@ -36,40 +36,35 @@ the URL.
 
 --
 
-## Core Concepts
+# Core Concepts
 
 --
 
-* Templates
-* Router
-* Components
-* Models
-* Route
-* Controllers
+# Awesome
+
 
 --
 
-## Flexibility
+# Flexibility
 
 --
 
-## Learning Curve
 
 -- 
 
-## Documentation
+# Documentation
 
 --
 
-## Developer Productivity
+# Developer Productivity
 
 --
 
-## Community Support
+# Community Support
 
 --
 
-## Ecosystem
+# Ecosystem
 
 --
 
